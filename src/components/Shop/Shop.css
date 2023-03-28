@@ -2,9 +2,15 @@
     display: grid;
     grid-template-columns: 4fr 1fr;
     margin:10px 0px 0px 10px;
+    width:auto;
 }
 .products-container{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     gap: 45px;
+    width: 80%;
+   
+}
+.cart-container{
+    width: 80%;
 }

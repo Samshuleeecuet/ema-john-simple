@@ -1,0 +1,13 @@
+.cart-container{
+    background: #FF9900;
+    position: sticky;
+    top: 0;
+    padding: 20px;
+}
+.cart-container h6{
+    font-size: 18px;
+}
+.cart-container p{
+    margin-bottom: 10px;
+    font-size: 16px;
+}
